@@ -100,49 +100,10 @@ Click "Create pull request", add a title, description and you're done!
 
 
 
+### Readme.md's usually support only markdown's
+<hr>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+for help with creating markdowns refer :
 
 
 > - [Basic Markdown for editing and making reports](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
