@@ -4,4 +4,8 @@
 
 - **Topic Finalisation**
      - *Topic Finalised on 14-10-2022. The topic is Crime Rate Prediction using Machine Learning*
-     - *Found an IEEE research paper about the same.*
+
+## 11-10-2022
+
+- **IEEE PAPER**
+    - *FOUND AN IEEE PAPER FOR THE TOPIC*
