@@ -1,4 +1,4 @@
-# Hi this is how group reports will look like
+# DAILY LOG REPORT
 
 ## Day 1
 
