@@ -8,19 +8,19 @@
 ## 17-10-2022
 
 - **Collected resources for the zeroth review**
-     - Collected IEEE paper
+     - Took references from IEEE paper.
 
 ## 18-10-2022
 
 - **Prepared ppt for the zeroth review**
-     - collab with team members for preparing ppt
+     - Focused on introduction and problem statement.
 
 ## 19-10-2022
 
 - **zeroth review**
-     - conducted the zeroth review
+     - conducted the zeroth review.
   
 ## 20-10-2022
 
-- **Research for feasibility and relevance of the projecty**
-     - Researched IEEE for the feasibility and relevance check
+- **Research for feasibility and relevance of the project**
+     - Well researched for the feasibility and relevance of the topic in present time.
