@@ -13,16 +13,16 @@
 ## 18-10-2022
 
 - **Prepared ppt for the zeroth review
-     - collab with team members for preparing ppt
+     - Focused on Description, features and skillset of the system.
 
 ## 19-10-2022
 
-- ** zeroth review
+- **zeroth review**
      - conducted the zeroth review
   
 ## 20-10-2022
 
-- ** Research for feasibility and relevance of the projecty
+- **Research for feasibility and relevance of the project**
      - Researched IEEE for the feasibility and relevance check
      
 
