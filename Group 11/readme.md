@@ -23,4 +23,4 @@
 ## 20-10-2022
 
 - **Research for feasibility and relevance of the project**
-     - Well researched for the feasibility and relevance of the topic in present time.
+     - Well researched for the feasibility and relevance of the topic.
