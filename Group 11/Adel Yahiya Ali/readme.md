@@ -1,13 +1,28 @@
 # Group 11 Weekly Report
 
-## 10-10-2022
+## 14-10-2022
 
 - **Topic Finalisation**
-     - *Topic Finalised on 10-10-2022. The topic is Crime Rate Prediction using Machine Learning*
+     - Topic Finalised on 14-10-2022. The topic is Crime Rate Prediction using Machine Learning*
+     - Found an IEEE research paper about the same.*
+## 17-10-2022
 
-## 11-10-2022
+- **Collected resources for the zeroth review**
+     - Took references from IEEE paper.
 
-- **IEEE PAPER**
-    - *FOUND AN IEEE PAPER FOR THE TOPIC*
+## 18-10-2022
+
+- **Prepared ppt for the zeroth review**
+     - Focused on Objectives and area of the project.
+
+## 19-10-2022
+
+- **zeroth review**
+     - conducted the zeroth review.
+  
+## 20-10-2022
+
+- **Research for feasibility and relevance of the project**
+     - Well researched for the feasibility and relevance of the topic in present time.
         
  
