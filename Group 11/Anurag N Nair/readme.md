@@ -12,15 +12,15 @@
 
 ## 18-10-2022
 
-- **Prepared ppt for the zeroth review
+- **Prepared ppt for the zeroth review**
      - Focused on introduction and problem statement.
 
 ## 19-10-2022
 
-- ** zeroth review
+- **zeroth review**
      - conducted the zeroth review.
   
 ## 20-10-2022
 
-- ** Research for feasibility and relevance of the project
+- **Research for feasibility and relevance of the project**
      - Well researched for the feasibility and relevance of the topic in present time.
