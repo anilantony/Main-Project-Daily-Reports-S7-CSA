@@ -12,6 +12,6 @@
 **TOPIC_ALLOTMENT FORM
     [Topic allotment form_Main project _G1.pdf](https://github.com/Anand-Prabha-Bose/Main-Project-Daily-Reports-S7-CSA/files/9843599/Topic.allotment.form_Main.project._G1.pdf)
     
-**Uber tech stack :
+**Uber tech stack 
     ![Uber Tech Stack](https://user-images.githubusercontent.com/92418883/197411223-427f04cf-0117-4a7e-bd5f-e015afa31771.jpg)
 
