@@ -4,8 +4,20 @@ Brainstormed couple of ideas for the project and analyzed the feasibility and pr
 
 ## Day 2(oct 13 2022)
 
-We selected one of the topic as the idea and prepared abstracts for it.
+Analysis the related project.
 
 ## Day 3(oct 14 2022)
 
-Topic was allotted by our guide Aswathy Wilson and prepared for the zeroth review.
+research on  the  skills needed.
+
+## Day 4(oct 15 2022)
+discuss the  ideas with guide jayakrishanan sir.
+
+## Day 5(oct 16 2022)
+ search the existing system for literature review
+ ## Day 6 (oct 16 2022)
+ Analyse the future scope and feasibility of the project idea
+ ## Day 7(oct 17 2022)
+ prepare the abstract for the project
+ 
+ 
