@@ -21,6 +21,23 @@
      - conducted the zeroth review.
   
 ## 20-10-2022
+- **Team Meeting with project guide in noon interval**
+     - verified the weekly report
+     - Suggestion for topic change
 
+## 21-10-2022
 - **Research for feasibility and relevance of the project**
      - Well researched for the feasibility and relevance of the topic in present time.
+
+## 22-10-2022
+
+- **Research for crime prediction using ensemble approach**
+
+## 23-10-2022
+
+- **checked for feasibility of previous mentioned approach**
+
+## 24-10-2022
+
+- **New research done beacuse of low relevance and feasibility.**
+- **Online team meeting**
