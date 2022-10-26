@@ -24,3 +24,20 @@
 
 - **Research for feasibility and relevance of the project**
      - Well researched for the feasibility and relevance of the topic in present time.
+
+## 21-10-2022
+
+- **Meeting with project guide**
+     - verified the weekly report
+
+## 22-10-2022
+
+- **Research for crime prediction using ensemble approach**
+
+## 23-10-2022
+
+- **checked for feasibility of previous mentioned approach**
+
+## 24-10-2022
+
+- **New research done beacuse of low relevance and feasibility.**
