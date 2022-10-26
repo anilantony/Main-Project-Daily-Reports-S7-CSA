@@ -41,3 +41,13 @@
 
 - **New research done beacuse of low relevance and feasibility.**
 - **Online team meeting**
+
+## 24-10-2022
+
+- **Research for new topic**
+     - Topic suggestion "Realtime accident detection and reporting system"
+
+## 24-10-2022
+
+- **Meeting with guide and project coordinator**
+     - Topic changed and finalised.
