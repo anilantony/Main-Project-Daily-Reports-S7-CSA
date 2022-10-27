@@ -36,4 +36,9 @@
 
 - **Planned and look for topic change**
      - Reseached the better topic than current one..
+     
+## 26-10-2022
+
+- **Topic changed**
+     - Changed the topic to Automated Accident reporting and rescue operation..
 
