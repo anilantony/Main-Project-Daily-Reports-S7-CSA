@@ -39,6 +39,10 @@
      
 ## 26-10-2022
 
-- **Topic changed**
+- ** Topic changed **
      - Changed the topic to Automated Accident reporting and rescue operation..
 
+## 27-10-2022
+
+- **Researched the feasibility of project**
+     -  Researched ieee paper for the feasibility check..
