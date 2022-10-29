@@ -46,3 +46,7 @@
 
 - **Researched the feasibility of project**
      -  Researched ieee paper for the feasibility check..
+## 28-10-2022
+
+- **Lookup the existing systems based on project**
+     -  Checked the availbale system based on project..
