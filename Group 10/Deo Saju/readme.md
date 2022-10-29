@@ -65,3 +65,7 @@
 -----------------------
 > Learned how transactions works on blockhain
 
+## Day (26 Oct 2020)
+-----------------------
+> Learned Front-end frame works basics
+
