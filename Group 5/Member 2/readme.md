@@ -1,55 +1,28 @@
-# Hi this is how group reports will look like
+## 14-10-2022
+- Topic finalization
+  "MULTIPLE DISEASE PREDICTION SYSTEM USING ML IN PYTHON".
+- Preparing for zeroth review. 
+## 17-10-2022
+- Zeroth review conducted.
+## 18-10-2022
+- Selecting latest papers that use ML technology for the same.
+## 19-10-2022
+- Studying IEEE paper "Early detection of Parkinson's disease using ML and deep learning".
+## 20-10-2022
+- Studying IEEE paper "Early detection of Parkinson's disease using ML and deep learning".
+- Analysing procedures used for implimentation in the paper.
+## 21-10-2022
+- Studying IEEE paper "Early detection of Parkinson's disease using ML and deep learning".
+- Analysing different algorithms used.
+## 25-10-2022
+- Analysing KNN algorithm.
+## 26-10-2022
+- Analysing Logistic Regression.
+## 27-10-2022
+- Studying how to make feature selection.
+## 28-10-2022
+- Searching various sources for dataset to train the model.
+## 31-10-2022
+- Lerning from tutorials on implementing ML models using python. 
 
-## Day 1
-
-- **What is Git ?**
-> Git is a distributed version-control system for tracking changes in source code during software development .It is designed for coordinating work among programmers, but it can be used to track changes in any set of files. Its goals include speed,data integrity,and support for distributed, non-linear workflows.
-
-
-- **What is GitHub?**
-> GitHub, Inc. is a United States-based global company that provides hosting for software development version control using Git. In 2018, it became a subsidiary of Microsoft for US$7.5 billion. It offers the distributed version control and source code management (SCM) functionality of Git, plus its own features
-
-
-### Offical documentations of Git & GitHub
-
-> - [Git](http://git-scm.com)
-
-> - [GitHub](http://github.com)
-
-
-
-## Day 2
-
-
-- **How to start with git ?** 
-
-- Installing git own your local machine,
-    - For Windows users visit : [Git](http://git-scm.com) and download the new version of git. Installing procudures are same when you installing a software setup in windows machine 
-    - For Linux Users, open up your terminal window (` Ctrl + Alt + T `) and type the following commands line by line
-        - For `Debian based OS ( Ubuntu,Kubuntu,Lubuntu,Debian,Kali linux, etc)`
-
-            ```
-            $ sudo apt-get update
-            $ sudo apt-get install git
-            ```
-        - For `RPM based systems (Red Hat Entreprise Linux, openSUSE, Fedora, CentOS, Arch Linux)`
-            ```
-            $sudo dnf install git-all
-            ```
-
-    To check whether git is installed or not
-
-    ```
-    $ git --version 
-     [it'll show your version of git]
-    ```
-    
-- **First things first - Config Git with Username and User Email**
-            
-    > In Linux terminal or Windows Command prompt enter the following commands with your details
-        
-        
-        $ git config --global user.name "YourNameGoesHere"
-        $ git config --global user.email "YourEmailGoesHere"
-        
- 
+  
