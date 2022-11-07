@@ -21,13 +21,14 @@
      - conducted the zeroth review.
   
 ## 20-10-2022
-- **Team Meeting with project guide in noon interval**
-     - verified the weekly report
-     - Suggestion for topic change
 
-## 21-10-2022
 - **Research for feasibility and relevance of the project**
      - Well researched for the feasibility and relevance of the topic in present time.
+
+## 21-10-2022
+
+- **Meeting with project guide**
+     - verified the weekly report
 
 ## 22-10-2022
 
@@ -40,14 +41,3 @@
 ## 24-10-2022
 
 - **New research done beacuse of low relevance and feasibility.**
-- **Online team meeting**
-
-## 25-10-2022
-
-- **Research for new topic**
-     - Topic suggestion "Realtime accident detection and reporting system"
-
-## 26-10-2022
-
-- **Meeting with guide and project coordinator**
-     - Topic changed and finalised.
