@@ -1,7 +1,7 @@
-# MEMBER 3 CHRISTEENA EDISON group 8
+# MEMBER 3 - CHRISTEENA EDISON 
 
 ## Day 1
-Topic conformation and discussion to finalise group project .
+Topic conformation and discussion to finalise group project idea.
 
 ## Day 2
 Searching internet for different ideas.
