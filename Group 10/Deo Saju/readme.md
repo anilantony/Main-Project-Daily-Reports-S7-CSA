@@ -69,3 +69,64 @@
 -----------------------
 > Learned Front-end frame works basics
 
+<<<<<<< HEAD
+## Day 1 (26 Oct 2020)
+-----------------------
+> Learned how transactions works on blockhain
+
+## Day 1 (27 Oct 2020)
+-----------------------
+> Started learning in Youtube
+
+## Day 1 (28 Oct 2020)
+-----------------------
+> Planned Project Structure Part- 1
+
+
+## Day 1 (29 Oct 2020)
+-----------------------
+> Planned Project Structure Part- 2
+
+## Day 1 (30 Oct 2020)
+-----------------------
+> Planned Project Structure Part- 3
+
+
+## Day 1 (31 Oct 2020)
+-----------------------
+> Updated all pending daily work report
+
+## Day 1 (1 Nov 2020)
+-----------------------
+> Pasued Learning for 1 week
+
+## Day 1 (2 Nov 2020)
+-----------------------
+> Pasued Learning for 1 week
+
+## Day 1 (3 Nov 2020)
+-----------------------
+> Pasued Learning for 1 week
+
+
+## Day 1 (4 Nov 2020)
+-----------------------
+> Pasued Learning for 1 week
+
+
+## Day 1 (5 Nov 2020)
+-----------------------
+> Pasued Learning for 1 week
+
+
+## Day 1 (6 Nov 2020)
+-----------------------
+> Pasued Learning for 1 week
+
+
+## Day 1 (7 Nov 2020)
+-----------------------
+> Pasued Learning for 1 week
+=======
+
+>>>>>>> e24e50647ae507b5a44f27b53796bf18ebdb8742
