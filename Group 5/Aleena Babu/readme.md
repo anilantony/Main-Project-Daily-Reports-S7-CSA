@@ -24,5 +24,33 @@
 - Searching various sources for dataset to train the model.
 ## 31-10-2022
 - Lerning from tutorials on implementing ML models using python. 
+## 1-11-2022
+- Learning implementation of ML models.
+## 2-11-2022
+- Learning implementation of ML models.
+## 3-11-2022
+- Learning implementation of ML models.
+## 4-11-2022
+- Learning implementation of ML models.
+## 7-11-2022
+- Learning implementation of SVM.
+## 8-11-2022
+- Learning implementation of SVM.
+## 9-11-2022
+- Learning implementation of SVM.
+## 10-11-2022
+- Learning implementation of SVM.
+## 11-11-2022
+- Learning implementation of SVM.
+## 14-11-2022
+- Learning implementation of SVM.
+## 15-11-2022
+- Learning implementation of SVM.
+## 16-11-2022
+- Finding data requirements for Parkinson's prediction.
+## 17-11-2022
+- Finding data requirements for Parkinson's prediction.
+## 18-11-2022
+- Finding data requirements for Parkinson's prediction.
 
   
