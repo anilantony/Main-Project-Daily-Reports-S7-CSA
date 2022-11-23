@@ -51,3 +51,40 @@
 
 - **Meeting with guide and project coordinator**
      - Topic changed and finalised.
+
+## 27-10-2022
+
+- **Finding research papers on realtime accident detection
+
+## 28-10-2022
+
+- **Sorting the abstract of the research paper
+
+## 29-10-2022
+
+- **Finding out Unique features of the existing system
+
+## 30-10-2022
+
+- **Finding the relevance of the advantages of the project
+
+## 31-10-2022
+
+- **Sorting the features that should be included in our system.
+
+# 01-11-2022
+
+- **Finding the disadvantages of the project
+
+# 02-11-2022
+
+- **Finding alternatives to rectify the disadvantages and find alternatives
+
+# 03-11-2022
+
+- **Checking the feasibility of the features of the project
+
+# 04-11-2022
+
+- **Finding out the technologies required to implement the features
+
